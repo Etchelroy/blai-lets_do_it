@@ -1,0 +1,20 @@
+┌──────────────────┐
+│  HEADER (h=64px) │
+│  Logo | Hamburger│
+├──────────────────┤
+│ HERO (h=500px)   │
+│ Stacked text     │
+│ Modal overlay    │
+├──────────────────┤
+│ GAMES (h=280px)  │
+│ Vertical scroll  │
+├──────────────────┤
+│ BENEFITS (h=240) │
+│ Stacked cards    │
+├──────────────────┤
+│ RG BANNER        │
+│ (h=140px)        │
+├──────────────────┤
+│ FOOTER (h=300px) │
+│ Stacked content  │
+└──────────────────┘
