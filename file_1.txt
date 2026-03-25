@@ -1,0 +1,30 @@
+┌─────────────────────────────────────────┐
+│  HEADER (h=80px, sticky)                │
+│  Logo | Nav Links | Sign In Button      │
+├─────────────────────────────────────────┤
+│                                         │
+│  HERO SECTION (h=600px, full-width)     │
+│  Background: Dark gradient + video BG   │
+│  Headline (h2) + Subheading (p)         │
+│  Age Verification Modal (overlay)       │
+│  Primary CTA Button (center-bottom)     │
+│                                         │
+├─────────────────────────────────────────┤
+│  FEATURED GAMES CAROUSEL (h=380px)      │
+│  6 game cards in scrollable row         │
+│  Each card: image + title + badge       │
+│                                         │
+├─────────────────────────────────────────┤
+│  TRUST / BENEFITS SECTION (h=340px)     │
+│  3-column grid (40px gaps)              │
+│  Icon + Heading + 2-line description    │
+│                                         │
+├─────────────────────────────────────────┤
+│  RESPONSIBLE GAMING BANNER (h=120px)    │
+│  Icon + Message + Links (WCAG AA)       │
+│                                         │
+├─────────────────────────────────────────┤
+│  FOOTER (h=240px)                       │
+│  Logo | Legal Links | Social Icons      │
+│  Privacy / Terms / Jurisdiction Notice  │
+└─────────────────────────────────────────┘
